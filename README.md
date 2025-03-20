@@ -1,1 +1,1 @@
-Study_Inflearn_JavaBasic
+Study_Inflearn
